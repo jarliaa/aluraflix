@@ -1,15 +1,15 @@
 body {
-    color: rgb(243, 14, 188);
+    color: rgb(144, 19, 115);
     background: rgb(243, 165, 223);
     margin: 0px;
     font-family: "Lobster", serif;
 }
 
 header {
-    border-bottom: solid 2px rgb(243, 14, 188);
+    border-bottom: solid 2px rgb(144, 19, 115);
     padding: 20px;
     font-size: 32px;
-    color: rgb(243, 14, 188);
+    color: rgb(144, 19, 115);
 }
 
 .background {
@@ -22,11 +22,11 @@ header {
     padding-top: 80px;
     display: flex;
     justify-content: center;
-    border-bottom: solid 2px rgb(243, 14, 188);
+    border-bottom: solid 2px rgb(144, 19, 115);
 }
 
 .video {
-    border: solid 2px rgb(243, 14, 188);
+    border: solid 2px rgb(144, 19, 115);
 }
 
 .chamada-texto {
@@ -42,13 +42,13 @@ header {
     display: inline-block;
     overflow: hidden;
     white-space: nowrap;
-    color: rgb(243, 14, 188);
+    color: rgb(144, 19, 115);
     /* Define a cor do texto */
 }
 
 .cursor {
     display: inline-block;
-    color: rgb(243, 14, 188);
+    color: rgb(144, 19, 115);
     /* Define a mesma cor do texto */
     animation: blink-caret 0.7s step-end infinite;
 }
@@ -86,7 +86,7 @@ p {
 .categoria-videos {
     display: flex;
     overflow-x: auto;
-    scrollbar-color: rgb(243, 14, 188) rgb(243, 165, 223);
+    scrollbar-color: rgb(144, 19, 115) rgb(243, 165, 223);
     scrollbar-width: thin;
     gap: 10px;
 }
@@ -104,11 +104,11 @@ p {
 
 .categoria-videos img:hover {
     opacity: 1.0;
-    border: 3px solid rgb(243, 14, 188);
+    border: 3px solid rgb(144, 19, 115);
 }
 
 .categoria h2 {
-    color: rgb(241, 14, 188);
+    color: rgb(144, 19, 115);
 }
 
 .copyright {
