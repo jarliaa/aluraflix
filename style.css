@@ -1,6 +1,6 @@
 body {
     color: rgb(243, 107, 211);
-    background: black;
+    background: rgb(244, 148, 220);
     margin: 0px;
     font-family: "Lobster", serif;
 }
@@ -17,7 +17,7 @@ header {
 }
 
 .chamada {
-    background: black;
+    background: rgb(244, 148, 220);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -86,7 +86,7 @@ p {
 .categoria-videos {
     display: flex;
     overflow-x: auto;
-    scrollbar-color: rgb(243, 107, 211) black;
+    scrollbar-color: rgb(243, 107, 211) rgb(243, 148, 220);
     scrollbar-width: thin;
     gap: 10px;
 }
