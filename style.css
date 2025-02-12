@@ -13,11 +13,11 @@ header {
 }
 
 .background {
-    background: url('bg-desktop.gif');
+    background-color: rgb(243, 148, 220);
 }
 
 .chamada {
-    background: rgb(244, 148, 220);
+    background: rgb(243, 148, 220);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
